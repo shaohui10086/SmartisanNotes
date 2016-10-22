@@ -9,7 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/example" />
-            <option value="$PROJECT_DIR$/smartiannotes" />
+            <option value="$PROJECT_DIR$/smartisannotes" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

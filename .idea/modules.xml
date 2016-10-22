@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmartisanNotes.iml" filepath="$PROJECT_DIR$/SmartisanNotes.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/smartiannotes/smartiannotes.iml" filepath="$PROJECT_DIR$/smartiannotes/smartiannotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartisannotes/smartisannotes.iml" filepath="$PROJECT_DIR$/smartisannotes/smartisannotes.iml" />
     </modules>
   </component>
 </project>
